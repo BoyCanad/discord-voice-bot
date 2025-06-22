@@ -29,19 +29,19 @@ app.use(bodyParser.json());
 // Example Roblox-to-Discord user mapping (replace with real system or database)
 const robloxToDiscord = {
   "LanceDainiel123": "lancesfp",
-  "meijikko": "viancaloveskisshia"
-  "lenieyel": "lenie_yel"
-  "jongwon447": "ivangino__94395"
-  "abrielqt": "itzmekennethcanaynay24",
-  "sorbet_moonrabbit": "maxwellisinthehouse_03221"
-  "JhiroMalabanaa": "jjiru_."
-  "cboyxzz": "cboyxzz._80287"
-  "Rex118898": "rey880050"
-  "cherryblossomon_top": "hana090942"
-  "jggjkgkgkgkg": "jggjkgkgkgkg"
-  "soa_zja": "ashleng0882"
-  "hbt_zoro": "ramen.fxdd"
-  "nhiell_5": "Cadena626273"
+  "meijikko": "viancaloveskisshia",
+  "lenieyel": "lenie_yel",
+  "jongwon447": "ivangino__94395",
+  "abrielqt": "itzmekennethcanaynay24",,
+  "sorbet_moonrabbit": "maxwellisinthehouse_03221",
+  "JhiroMalabanaa": "jjiru_.",
+  "cboyxzz": "cboyxzz._80287",
+  "Rex118898": "rey880050",
+  "cherryblossomon_top": "hana090942",
+  "jggjkgkgkgkg": "jggjkgkgkgkg",
+  "soa_zja": "ashleng0882",
+  "hbt_zoro": "ramen.fxdd",
+  "nhiell_5": "Cadena626273",
   "shuveeeishereyall": "maxwellisinthehouse_03221"
 };
 
