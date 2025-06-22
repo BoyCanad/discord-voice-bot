@@ -32,7 +32,7 @@ const robloxToDiscord = {
   "meijikko": "viancaloveskisshia",
   "lenieyel": "lenie_yel",
   "jongwon447": "ivangino__94395",
-  "abrielqt": "itzmekennethcanaynay24",,
+  "abrielqt": "itzmekennethcanaynay24",
   "sorbet_moonrabbit": "maxwellisinthehouse_03221",
   "JhiroMalabanaa": "jjiru_.",
   "cboyxzz": "cboyxzz._80287",
