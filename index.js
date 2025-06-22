@@ -28,7 +28,7 @@ app.use(bodyParser.json());
 
 // Example Roblox-to-Discord user mapping (replace with real system or database)
 const robloxToDiscord = {
-  "RobloxUser1": "UserOne#1234",
+  "LanceDainiel123": "lancesfp",
   "RobloxUser2": "UserTwo#4567"
 };
 
